@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Headbob/BP_Idle.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Headbob/BP_Walk.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Headbob/BP_Run.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/M_Linterna.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/DefaultMaterial.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/defaultMaterial1.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/defaultMaterial_f268e858783876fe57839ddd40f25a8c.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/horror_game_flashlight_download_game-ready__1__texture_0.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/horror_game_flashlight_download_game-ready__1__texture_1.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/horror_game_flashlight_download_game-ready__1__texture_2.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/horror_game_flashlight_download_game-ready__1__texture_3.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/FirstPerson/Input/Actions/IA_Linterna.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/luz.uasset"
+			]
+		}
+	]
+}
