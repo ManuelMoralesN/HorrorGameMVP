@@ -77,3 +77,10 @@ DerivedDataCache/*
 /HorrorMVP/Saved
 /HorrorMVP/Saved/webcache_4430
 /HorrorMVP/Saved/webcache_4430
+*.log
+*.json
+HorrorMVP/Saved/SourceControl/UncontrolledChangelists.json
+HorrorMVP/Saved/Logs/HorrorMVP.log
+HorrorMVP/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+HorrorMVP/Saved/AutoScreenshot.png
+HorrorMVP/Saved/Autosaves/PackageRestoreData.json
