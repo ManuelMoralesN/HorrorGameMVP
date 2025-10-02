@@ -22,7 +22,6 @@
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/FirstPerson/Input/Actions/IA_Linterna.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Recursos/Linterna/luz.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7K/09Y04VQCP5U6GAV8RLOYDP.uasset",
-				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/IA/BP_Enemy.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Modelos/Enemigo/Material_001.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/IA/BP/BP_Enemy.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/IA/Controller/AIC_Enemy.uasset",
@@ -71,6 +70,12 @@
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Modelos/Enemigo2/NewBlendSpace1D.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Modelos/Enemigo2/AB_enemy.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Modelos/Enemigo2/AM_Attack.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/IA/Spawners/BP_SpawnerTrigger.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/IA/Spawners/BP_Spawner.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/IB/GDLDETKLUWYDW4MD5KRPEL.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/9O/BDXW6Q0PLMKULRHYYSYET6.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/IA/BP_Enemy.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
