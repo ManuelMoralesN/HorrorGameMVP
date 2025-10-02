@@ -77,9 +77,3 @@ DerivedDataCache/*
 /HorrorMVP/Saved
 /HorrorMVP/Saved/webcache_4430
 /HorrorMVP/Saved/webcache_4430
-
-# Ignorar archivos generados por Unreal Engine
-**/Saved/*
-**/Intermediate/*
-**/*.log
-**/*.ini
