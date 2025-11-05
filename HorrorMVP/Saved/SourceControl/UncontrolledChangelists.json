@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Abandoned_Building/Levels/TestMap1.umap",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Blueprints/NavArea/NavArea_obstacle1.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Blueprints/AI/Blueprints/BP_PathNPC.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/HorrorGameMVP/HorrorMVP/Content/Blueprints/NavArea/BP_Incendio.uasset",
 				"D:/Github/HorrorGameMVP/HorrorMVP/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Github/HorrorGameMVP/HorrorMVP/Content/Abandoned_Building/Levels/TestMap1.umap"
 			]
